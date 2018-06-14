@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1397.png</filename>
+	<path>/Users/i351707/Desktop/images/1397.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>txt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>322</ymin>
+			<xmax>285</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>
