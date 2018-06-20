@@ -22,5 +22,3 @@ for number in onlyfiles:
             ymax = int(i[4][3].text)
             crop_img = img[ymin:ymax, xmin:xmax]
             cv2.imwrite('/Users/i351707/Desktop/cropped_images/'+number+'.png', crop_img)
-
-
